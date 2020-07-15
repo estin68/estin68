@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+🌱 I’m currently learning "Python for Data Science and Machine Learning Bootcamp"
 <!--
 **estin68/estin68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
